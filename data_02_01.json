@@ -1,0 +1,322 @@
+{
+    "trefl": [
+        {
+            "id": 1,
+            "type": "number",
+            "name": "trefl",
+            "value": "As"
+        },
+        {
+            "id": 2,
+            "type": "number",
+            "name": "trefl",
+            "value": "K"
+        },
+        {
+            "id": 3,
+            "type": "number",
+            "name": "trefl",
+            "value": "Q"
+        },
+        {
+            "id": 4,
+            "type": "number",
+            "name": "trefl",
+            "value": "J"
+        },
+        {
+            "id": 5,
+            "type": "number",
+            "name": "trefl",
+            "value": "10"
+        },
+        {
+            "id": 6,
+            "type": "number",
+            "name": "trefl",
+            "value": "9"
+        },
+        {
+            "id": 7,
+            "type": "number",
+            "name": "trefl",
+            "value": "8"
+        },
+        {
+            "id": 8,
+            "type": "number",
+            "name": "trefl",
+            "value": "7"
+        },
+        {
+            "id": 9,
+            "type": "number",
+            "name": "trefl",
+            "value": "6"
+        },
+        {
+            "id": 10,
+            "type": "number",
+            "name": "trefl",
+            "value": "5"
+        },
+        {
+            "id": 11,
+            "type": "number",
+            "name": "trefl",
+            "value": "4"
+        },
+        {
+            "id": 12,
+            "type": "number",
+            "name": "trefl",
+            "value": "3"
+        },
+        {
+            "id": 13,
+            "type": "number",
+            "name": "trefl",
+            "value": "2"
+        }
+    ],
+    "karo": [
+        {
+            "id": 1,
+            "type": "number",
+            "name": "karo",
+            "value": "As"
+        },
+        {
+            "id": 2,
+            "type": "number",
+            "name": "karo",
+            "value": "K"
+        },
+        {
+            "id": 3,
+            "type": "number",
+            "name": "karo",
+            "value": "Q"
+        },
+        {
+            "id": 4,
+            "type": "number",
+            "name": "karo",
+            "value": "J"
+        },
+        {
+            "id": 5,
+            "type": "number",
+            "name": "karo",
+            "value": "10"
+        },
+        {
+            "id": 6,
+            "type": "number",
+            "name": "karo",
+            "value": "9"
+        },
+        {
+            "id": 7,
+            "type": "number",
+            "name": "karo",
+            "value": "8"
+        },
+        {
+            "id": 8,
+            "type": "number",
+            "name": "karo",
+            "value": "7"
+        },
+        {
+            "id": 9,
+            "type": "number",
+            "name": "karo",
+            "value": "6"
+        },
+        {
+            "id": 10,
+            "type": "number",
+            "name": "karo",
+            "value": "5"
+        },
+        {
+            "id": 11,
+            "type": "number",
+            "name": "karo",
+            "value": "4"
+        },
+        {
+            "id": 12,
+            "type": "number",
+            "name": "karo",
+            "value": "3"
+        },
+        {
+            "id": 13,
+            "type": "number",
+            "name": "karo",
+            "value": "2"
+        }
+    ],
+    "kier": [
+        {
+            "id": 1,
+            "type": "number",
+            "name": "kier",
+            "value": "As"
+        },
+        {
+            "id": 2,
+            "type": "number",
+            "name": "kier",
+            "value": "K"
+        },
+        {
+            "id": 3,
+            "type": "number",
+            "name": "kier",
+            "value": "Q"
+        },
+        {
+            "id": 4,
+            "type": "number",
+            "name": "kier",
+            "value": "J"
+        },
+        {
+            "id": 5,
+            "type": "number",
+            "name": "kier",
+            "value": "10"
+        },
+        {
+            "id": 6,
+            "type": "number",
+            "name": "kier",
+            "value": "9"
+        },
+        {
+            "id": 7,
+            "type": "number",
+            "name": "kier",
+            "value": "8"
+        },
+        {
+            "id": 8,
+            "type": "number",
+            "name": "kier",
+            "value": "7"
+        },
+        {
+            "id": 9,
+            "type": "number",
+            "name": "kier",
+            "value": "6"
+        },
+        {
+            "id": 10,
+            "type": "number",
+            "name": "kier",
+            "value": "5"
+        },
+        {
+            "id": 11,
+            "type": "number",
+            "name": "kier",
+            "value": "4"
+        },
+        {
+            "id": 12,
+            "type": "number",
+            "name": "kier",
+            "value": "3"
+        },
+        {
+            "id": 13,
+            "type": "number",
+            "name": "kier",
+            "value": "2"
+        }
+    ],
+    "pik": [
+        {
+            "id": 1,
+            "type": "number",
+            "name": "pik",
+            "value": "As"
+        },
+        {
+            "id": 2,
+            "type": "number",
+            "name": "pik",
+            "value": "K"
+        },
+        {
+            "id": 3,
+            "type": "number",
+            "name": "pik",
+            "value": "Q"
+        },
+        {
+            "id": 4,
+            "type": "number",
+            "name": "pik",
+            "value": "J"
+        },
+        {
+            "id": 5,
+            "type": "number",
+            "name": "pik",
+            "value": "10"
+        },
+        {
+            "id": 6,
+            "type": "number",
+            "name": "pik",
+            "value": "9"
+        },
+        {
+            "id": 7,
+            "type": "number",
+            "name": "pik",
+            "value": "8"
+        },
+        {
+            "id": 8,
+            "type": "number",
+            "name": "pik",
+            "value": "7"
+        },
+        {
+            "id": 9,
+            "type": "number",
+            "name": "pik",
+            "value": "6"
+        },
+        {
+            "id": 10,
+            "type": "number",
+            "name": "pik",
+            "value": "5"
+        },
+        {
+            "id": 11,
+            "type": "number",
+            "name": "pik",
+            "value": "4"
+        },
+        {
+            "id": 12,
+            "type": "number",
+            "name": "pik",
+            "value": "3"
+        },
+        {
+            "id": 13,
+            "type": "number",
+            "name": "pik",
+            "value": "2"
+        }
+    ]
+}
